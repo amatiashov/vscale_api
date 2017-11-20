@@ -5,6 +5,8 @@ from . import __file__ as source_path
 
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(source_path)))
+RESOURCES_DIR = os.path.join(BASE_DIR, "resources")
+
 
 LOG_FOLDER = os.path.join(BASE_DIR, "logs")
 

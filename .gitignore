@@ -10,7 +10,7 @@ __pycache__/
 
 /logs
 /config/config.ini
-
+/resources
 
 # Distribution / packaging
 .Python
